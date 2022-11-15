@@ -1,1 +1,1 @@
-I love JavaScript with all its pitfalls :)
+![HEADER](img/github%20readme%20header.png)
