@@ -13,9 +13,6 @@
 <h1 align="center">Hi, I'm Stanislav</h1>
 <h3 align="center">Fullstack software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stasbubnoff&label=Profile%20views&color=0e75b6&style=flat" alt="stasbubnoff" /> </p>
-
-
 - 🔭 I’m currently working on [Querator](https://github.com/stasbubnoff/querator)
 
 - 📫 How to reach me **stasbubnoff@yahoo.com**
