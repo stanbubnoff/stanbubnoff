@@ -13,9 +13,7 @@
 <h1 align="center">Hi, I'm Stanislav</h1>
 <h3 align="center">Fullstack software developer</h3>
 
-- 🔭 I’m currently working on [Querator](https://github.com/stasbubnoff/querator)
-
-- 📫 How to reach me **stasbubnoff@yahoo.com**
+- 📫 How to reach me **stanbubnoff@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 
