@@ -21,8 +21,8 @@ FFFFFFFFFFF               uuuuuuuu  uuuullllllllllllllll          JJJJJJJJJ     
                                                                                                                                
 ```
 
-<h1 align="center">Hi, I'm Stanislav</h1>
-<h3 align="center">Fullstack software developer</h3>
+<h1 align="center">Hi, folks! I'm Stanislav</h1>
+<h3 align="center">Software Engineer</h3>
 
 - 📫 How to reach me **stanbubnoff@proton.me**
 
